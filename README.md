@@ -1,4 +1,4 @@
-# Projeto: Boosting para Classificação no Jogo da Velha
+# Boosting para Classificação no Jogo da Velha
 
 ## Introdução
 
